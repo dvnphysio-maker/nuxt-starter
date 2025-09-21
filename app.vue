@@ -1,7 +1,7 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: "en-gb" },
-  title: "Devon Stroke and Neuro Physio - Physiotherapy and Rehab in the comfort of your own home",
+  title: "Devon Stroke and Neuro Physio - Physiotherapy & Rehab",
   meta: [
     {
       name: "description",
