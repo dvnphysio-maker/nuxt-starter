@@ -11,7 +11,7 @@
       }
     ]
   },
-   "logos": <!-- {
+   "logos":  {
     "title": "Providing Personalised, High Quality Care",
      "icons": [
       {
@@ -30,7 +30,7 @@
         "name": "i-simple-icons-netlify"
       }
     ]
-  }, -->
+  },
   "features": {
     "title": "Why choose Devon Stroke and Neuro Physio?",
     "description": "Meaningful, task-specific practice in your real environment for faster carryover into daily life. One-to-one sessions without travel or waiting rooms, ideal for fatigue and reduced mobility. Family and carers involved from day one, supporting consistent practice between sessions",
