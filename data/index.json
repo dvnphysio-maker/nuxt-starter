@@ -13,23 +13,7 @@
   },
    "logos":  {
     "title": "Providing Personalised, High Quality Care",
-     "icons": [
-      {
-        "name": "i-simple-icons-gitlab"
-      },
-      {
-        "name": "i-simple-icons-github"
-      },
-      {
-        "name": "i-simple-icons-openai"
-      },
-      {
-        "name": "i-simple-icons-google"
-      },
-      {
-        "name": "i-simple-icons-netlify"
-      }
-    ]
+     "icons": []
   },
   "features": {
     "title": "Why choose Devon Stroke and Neuro Physio?",
