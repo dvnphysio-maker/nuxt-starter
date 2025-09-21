@@ -1,18 +1,18 @@
 {
   "hero": {
-    "title": "Regain independence, confidence, and mobility after stroke with tailored physiotherapy delivered in the comfort and familiarity of your own home.",
-    "description": "Craft high-performing, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify's global edge network.",
+    "title": "Dedicated Devon physiotherapist restoring movement and independence after stroke, brain injury, or other neurological conditions",
+    "description": "Regain independence, confidence, and mobility after stroke with tailored physiotherapy delivered in the comfort and familiarity of your own home.",
     "image": "images/hero.jpg",
     "imageAlt": "DVNPhysio Logo Test",
     "buttons": [
       {
-        "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "label": "Contact Us Now",
+        "url": "mailto:dvnphysio@gmail.com"
       }
     ]
   },
   "logos": {
-    "title": "Trusted by the world's best",
+    "title": "Providing Personalised, High Quality Care",
     "icons": [
       {
         "name": "i-simple-icons-gitlab"
