@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "Build Blazing-Fast Websites with Nuxt.js & Netlify",
+    "title": "Regain independence, confidence, and mobility after stroke with tailored physiotherapy delivered in the comfort and familiarity of your own home.",
     "description": "Craft high-performing, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify's global edge network.",
     "image": "images/hero.jpg",
-    "imageAlt": "Nuxt logo and title on abstract background",
+    "imageAlt": "DVNPhysio Logo Test",
     "buttons": [
       {
         "label": "Get Started Today",
@@ -32,8 +32,10 @@
     ]
   },
   "features": {
-    "title": "Why choose Nuxt.js?",
-    "description": "Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.",
+    "title": "Why choose Devon Stroke and Neuro Physio?",
+    "description": "- Meaningful, task-specific practice in your real environment for faster carryover into daily life.
+- One-to-one sessions without travel or waiting rooms, ideal for fatigue and reduced mobility.
+- Family and carers involved from day one, supporting consistent practice between sessions",
     "items": [
       {
         "title": "Server-Side Rendering",
