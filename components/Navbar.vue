@@ -15,8 +15,9 @@ const menuitems = [
   <Container>
     <header class="flex flex-row flex-wrap items-center justify-between my-4 gap-x-6 gap-y-4">
       <div class="flex items-center justify-between">
-        <a href="/" class="text-2xl font-bold text-zinc-800">
-          <img src="/favicon.ico" alt="DVN Physio Logo" class="h-12" /> Devon Stroke and Neuro Physio
+        <a href="/" class="flex items-center space-x-2">
+          <img src="/favicon.ico" alt="DVN Physio Logo" class="h-12" />
+          <span> class="text-green-500" Devon Stroke and Neuro Physio</span>
         </a>
       </div>
       <nav class="flex w-auto">
