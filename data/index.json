@@ -13,7 +13,7 @@
   },
   "logos": {
     "title": "Providing Personalised, High Quality Care",
-    "icons": [
+    # "icons": [
       {
         "name": "i-simple-icons-gitlab"
       },
@@ -61,7 +61,7 @@
       }
     ]
   },
-  "testimonials": {
+  # "testimonials": {
     "title": "What Our Users Are Saying",
     "description": "Hear from our clients about their experiences working with Nuxt and Netlify.",
     "items": [
