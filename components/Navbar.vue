@@ -17,7 +17,7 @@ const menuitems = [
       <div class="flex items-center justify-between">
         <a href="/" class="flex items-center space-x-2">
           <img src="/favicon.ico" alt="DVN Physio Logo" class="h-12" />
-          <span> class="text-green-500" Devon Stroke and Neuro Physio</span>
+          <span class="text-green-500">Devon Stroke and Neuro Physio</span>
         </a>
       </div>
       <nav class="flex w-auto">
