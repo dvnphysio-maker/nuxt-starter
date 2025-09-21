@@ -1,12 +1,12 @@
 <script setup>
 const menuitems = [
   {
-    title: "Sign up",
-    url: "https://app.netlify.com/signup",
+    title: "About",
+    url: "https://dvnphysio.netlify.app/about",
   },
   {
-    title: "Log in",
-    url: "https://app.netlify.com/login",
+    title: "Contact Us",
+    url: "https://dvnphysio.netlify.app/contact",
   },
 ];
 </script>
