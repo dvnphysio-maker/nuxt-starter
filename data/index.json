@@ -3,7 +3,7 @@
     "title": "Dedicated Devon physiotherapist restoring movement and independence after stroke, brain injury, or other neurological conditions",
     "description": "Regain independence, confidence, and mobility after stroke with tailored physiotherapy delivered in the comfort and familiarity of your own home.",
     "image": "images/hero.jpg",
-    "imageAlt": "DVNPhysio Logo Test",
+    "imageAlt": "DVNPhysio Logo",
     "buttons": [
       {
         "label": "Contact Us Now",
@@ -36,28 +36,28 @@
     "description": "Meaningful, task-specific practice in your real environment for faster carryover into daily life. One-to-one sessions without travel or waiting rooms, ideal for fatigue and reduced mobility. Family and carers involved from day one, supporting consistent practice between sessions",
     "items": [
       {
-        "title": "Server-Side Rendering",
-        "description": "Nuxt.js allows you to build SSR applications with Vue.js, ensuring fast initial page loads and better SEO."
+        "title": "Home Visiting",
+        "description": "Our experienced therapists provide comprehensive assessments and tailored treatment plans in the comfort and safety of your own home. Home visits allow us to work with you in your everyday environment, making rehabilitation practical and effective."
       },
       {
-        "title": "Static Site Generation",
-        "description": "You can pre-render pages at build time for static websites. This helps with performance and scalability by serving content directly from a CDN."
+        "title": "Experienced Neurological Physiotherapist",
+        "description": "With over XX years of experience in the NHS working at a senior level, you can be reassured you are in safe hands"
       },
       {
-        "title": "Auto-Routing",
-        "description": "Nuxt automatically generates routes based on the file structure inside the pages directory, reducing the need for manual configuration."
+        "title": "Flexibility",
+        "description": "We offer flexible appointment times to fit around your schedule. Whether you need weekly sessions or occasional check-ins, our team is here to accommodate your needs."
       },
       {
-        "title": "File-based Configuration",
-        "description": "Nuxt uses a convention-over-configuration approach, allowing you to define configurations easily in nuxt.config.js without much boilerplate."
+        "title": "Personalised Treatment Plans",
+        "description": "No two recoveries are the same. We create customised rehabilitation programs designed around your goals, lifestyle, and progress. This personalised approach maximises your results and supports long-term independence."
       },
       {
-        "title": "Dynamic Imports",
-        "description": "It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks."
+        "title": "Collaborative Approach",
+        "description": "We work closely with other healthcare professionals, families, and carers to provide comprehensive support and ensure your rehabilitation fits with broader medical plans."
       },
       {
-        "title": "SEO Friendly",
-        "description": "With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly."
+        "title": "Empowering Education and Advice",
+        "description": "We equip you and your family with practical advice, exercises, and strategies to maintain progress and prevent setbacks. Knowledge is a vital part of recovery, and we make sure you understand every step."
       }
     ]
   },
@@ -96,8 +96,8 @@
     "description": "Let your next project be smarter, faster, and effortlessly deployable.",
     "buttons": [
       {
-        "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "label": "Contact us now",
+        "url": "mailto:dvnphysio@gmail.com"
       }
     ]
   }
